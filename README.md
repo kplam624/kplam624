@@ -5,7 +5,7 @@ I am Kevin. My passion is learning and playing around with data, hopefully creat
 
 Useful links:
 
-![LinkedIn](https://www.linkedin.com/in/kevinphilam/)
+[LinkedIn](https://www.linkedin.com/in/kevinphilam/)
 
 
 <!--
