@@ -3,7 +3,7 @@
 
 I am Kevin. My passion is learning and playing around with data, hopefully creating cool and meaningful visualizations. I hope to grow and keep creating.
 
-Useful links:
+Some links:
 
 [LinkedIn](https://www.linkedin.com/in/kevinphilam/)
 
